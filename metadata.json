@@ -1,0 +1,7 @@
+{
+  "name": "IronPulse Gym Management",
+  "description": "A high-performance gym membership system featuring AI goal setting, QR check-ins, real-time occupancy heatmaps, and gamified workout tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
